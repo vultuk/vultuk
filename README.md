@@ -45,7 +45,7 @@
 <code><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/jetbrains.svg" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" height="30"></code>
 
-#### :control_knobs: Stacks
+#### :control_knobs: Platforms
 
 <code><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/firebase.svg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/google-cloud.svg" height="30"></code>
