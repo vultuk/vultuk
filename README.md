@@ -10,6 +10,8 @@
 - :office: I own a number of businesses where I run IT and Development.
 - :speaking_head: I'm passionate about learning languages, both programming and spoken.
 - :keyboard: Mainly I just love to code.
+- :iphone: Recently I got back into making mobile apps
+- :mega: **We are almost always hiring**
 
 <p align="center">
 <code><a href="https://github.com/vultuk"><img alt="visitors" src="https://img.shields.io/github/followers/vultuk?label=github&style=social" /></a></code>
