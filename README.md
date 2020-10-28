@@ -14,8 +14,10 @@
 
 ### :zap: Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue" alt="Vultuk's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue" alt="Vultuk's Github Stats" width="100%">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vultuk&count_private=true&show_icons=true&theme=vue" alt="Vultuk's Wakatime Stats" width="60%" style="margin-top: 20px;">
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vultuk&count_private=true&show_icons=true&theme=vue" alt="Vultuk's Wakatime Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue" width="37%" alt="Vultuk's Top Languages" style="margin-left: 10px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue" width="37%" alt="Vultuk's Top Languages">
+
+See even more stats right here :point_right: [Sourcerer](https://sourcerer.io/vultuk)
