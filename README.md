@@ -16,11 +16,16 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue" width="37%" alt="Vultuk's Top Languages">
 
-#### Loving
+#### :heart_eyes: Loving
 
-| <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40"> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40"> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40"> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40"> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="40"> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40"> |
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="40"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40"></code>
 
-#### Learning
+#### :thinking: Learning
 
 |                                                                                                      |                                                                                                        |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
