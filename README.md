@@ -18,21 +18,17 @@
 
 #### Loving
 
-<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40">
-<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40">
-<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40">
-<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40">
-<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="40">
-<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40">
-
-<br style="clear: left;">
+|                                                                                                                |                                                                                                                |                                                                                                    |                                                                                                  |                                                                                                  |                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40"> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40"> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40"> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40"> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="40"> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40"> |
 
 #### Learning
 
-<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="40">
-<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="40">
+|                                                                                                      |                                                                                                        |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="40"> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="40"> |
 
-<br style="clear: right;">
+<br style="clear: both;">
 
 ### Github Stats
 
