@@ -14,7 +14,7 @@
 
 ### Languages and Tools
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue" width="50%" alt="Vultuk's Top Languages">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue" width="42%" alt="Vultuk's Top Languages">
 
 #### :heart_eyes: Loving
 
