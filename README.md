@@ -12,12 +12,21 @@
 <a href="https://www.linkedin.com/in/simon-skinner"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### :zap: Github Stats
+### Languages
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue" alt="Vultuk's Github Stats" width="100%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue" width="37%" alt="Vultuk's Top Languages">
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vultuk&count_private=true&show_icons=true&theme=vue" alt="Vultuk's Wakatime Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue" width="37%" alt="Vultuk's Top Languages">
+### Github Stats
 
-See even more stats right here :point_right: [Sourcerer](https://sourcerer.io/vultuk)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue" alt="Vultuk's Github Stats">
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@vultuk&count_private=true&show_icons=true&theme=vue" alt="Vultuk's Wakatime Stats">
+
+</p>
+
+<p align="center">
+  See even more stats right here :point_right: [Sourcerer](https://sourcerer.io/vultuk)
+</p>
