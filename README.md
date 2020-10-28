@@ -29,6 +29,7 @@
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/postgresql.svg" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"></code>
