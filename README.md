@@ -14,8 +14,8 @@
 - :mega: **We are almost always hiring**
 
 <p align="center">
-<code><a href="https://github.com/vultuk"><img alt="visitors" src="https://img.shields.io/github/followers/vultuk?label=github&style=social" /></a></code>&nbsp;&nbsp;&nbsp;
-<code><a href="https://twitter.com/vultuk"><img alt="visitors" src="https://img.shields.io/twitter/follow/vultuk?label=twitter&style=social" /></a></code>&nbsp;&nbsp;&nbsp;
+<code><a href="https://github.com/vultuk"><img src="https://img.shields.io/badge/Github-%23333333.svg?&style=flat&logo=github&logoColor=white" alt="Github" /></a></code>&nbsp;&nbsp;&nbsp;
+<code><a href="https://twitter.com/vultuk"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a></code>&nbsp;&nbsp;&nbsp;
 <code><a href="https://www.linkedin.com/in/simon-skinner"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></code>&nbsp;&nbsp;&nbsp;
 <code><a href="mailto:simon@vult.uk"><img src="https://img.shields.io/badge/%40-E--Mail-red" alt="E-Mail" /></a></code>
 </p>
