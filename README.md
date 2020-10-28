@@ -23,7 +23,6 @@
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50"></code>
 <code><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/postgresql.svg" height="50"></code>
-
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="50"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"></code>
 
