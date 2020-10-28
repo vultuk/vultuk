@@ -14,9 +14,23 @@
 
 ### Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue" width="37%" alt="Vultuk's Top Languages">
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue" width="37%" alt="Vultuk's Top Languages">
+
+#### Loving
+
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40">
+
+#### Learning
+
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="40">
+
+<br style="clear: both;">
 
 ### Github Stats
 
@@ -28,5 +42,5 @@
 </p>
 
 <p align="center">
-  See even more stats right here :point_right: [Sourcerer](https://sourcerer.io/vultuk)
+  See even more stats right here :point_right: <a href="https://sourcerer.io/vultuk">Sourcerer</a>
 </p>
