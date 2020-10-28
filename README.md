@@ -22,7 +22,7 @@
 
 ## Languages and Tools
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue" width="44%" alt="Vultuk's Top Languages">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true&langs_count=10&hide=perl,shell,plsql,css,sqlpl" width="44%" alt="Vultuk's Top Languages">
 
 #### :heart_eyes: Loving
 
@@ -58,6 +58,6 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue" alt="Vultuk's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="Vultuk's Github Stats">
 
 - See even more stats right here :point_right: <a href="https://sourcerer.io/vultuk">Sourcerer</a>
