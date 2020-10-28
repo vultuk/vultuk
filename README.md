@@ -49,13 +49,6 @@
 
 ### Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue" alt="Vultuk's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue" alt="Vultuk's Github Stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@vultuk&count_private=true&show_icons=true&theme=vue" alt="Vultuk's Wakatime Stats">
-
-</p>
-
-<p align="center">
-  See even more stats right here :point_right: <a href="https://sourcerer.io/vultuk">Sourcerer</a>
-</p>
+- See even more stats right here :point_right: <a href="https://sourcerer.io/vultuk">Sourcerer</a>
