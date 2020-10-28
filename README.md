@@ -18,18 +18,17 @@
 
 #### :heart_eyes: Loving
 
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="40"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="50"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"></code>
 
 #### :thinking: Learning
 
-|                                                                                                      |                                                                                                        |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="40"> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="40"> |
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="50"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="50"></code>
 
 <br style="clear: both;">
 
