@@ -5,13 +5,15 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/vultuk" />
+<code><a href="https://github.com/vultuk"><img alt="visitors" src="https://img.shields.io/github/followers/vultuk?label=github&style=social" /></a></code>
+<code><a href="https://twitter.com/vultuk"><img alt="visitors" src="https://img.shields.io/twitter/follow/vultuk?label=twitter&style=social" /></a></code>
+<code><a href="https://www.linkedin.com/in/simon-skinner"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></code>
 </p>
 
 <p align="center">
 <br>
 <a href="https://twitter.com/vultuk"><img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/simon-skinner"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 </p>
 
 ## Languages and Tools
