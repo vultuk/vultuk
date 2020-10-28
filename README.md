@@ -16,6 +16,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=dark" alt="Vultuk's Github Stats" width="60%">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=dark" alt="Vultuk's Github Stats" width="60%" style="padding-top: 10px;">
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=vultuk&count_private=true&show_icons=true&theme=dark" alt="Vultuk's Github Stats" width="60%" style="padding-top: 10px;">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=dark" width="37%" alt="Vultuk's Top Languages" style="padding-left: 10px;">
