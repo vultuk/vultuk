@@ -62,3 +62,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="Vultuk's Github Stats">
 
 - See even more stats right here :point_right: <a href="https://sourcerer.io/vultuk">Sourcerer</a>
+
+## My Open Source Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vultuk&repo=functionals)](https://github.com/vultuk/functionals)
+
+- See all my Open Source projects right here :point_right: <a href="https://github.com/vultuk?tab=repositories">Repositories</a>
