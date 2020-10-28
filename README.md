@@ -4,6 +4,9 @@
   <h1 align="center"><b>Hi, You've found Vultuk</b></h1>
 </p>
 
+**Welcome to my profile!**<br />
+I'm Simon (or Vultuk) from Manchester, England. I have a number of businesses where I run IT and Development, but mainly I just love to code. I'm passionate about learning languages, both programming and spoken.
+
 <p align="center">
 <code><a href="https://github.com/vultuk"><img alt="visitors" src="https://img.shields.io/github/followers/vultuk?label=github&style=social" /></a></code>
 <code><a href="https://twitter.com/vultuk"><img alt="visitors" src="https://img.shields.io/twitter/follow/vultuk?label=twitter&style=social" /></a></code>
