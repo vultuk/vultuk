@@ -1,7 +1,7 @@
 <p>
   <!-- <img width="100%" src="https://media-exp1.licdn.com/dms/image/C5616AQFrbKs5x7RYtw/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=V8nN_PQCvfe6lDVnJYIv7yXMH4XELI6RevKDxNQUwdw"> -->
 
-  <h1 align="center"><b>Hi, You've found Vultuk</b></h1>
+  <h1 align="center"><b>Hi. You've found Vultuk</b></h1>
 </p>
 
 **Welcome to my profile!**<br />
@@ -17,6 +17,7 @@
 <code><a href="https://github.com/vultuk"><img alt="visitors" src="https://img.shields.io/github/followers/vultuk?label=github&style=social" /></a></code>
 <code><a href="https://twitter.com/vultuk"><img alt="visitors" src="https://img.shields.io/twitter/follow/vultuk?label=twitter&style=social" /></a></code>
 <code><a href="https://www.linkedin.com/in/simon-skinner"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></code>
+<code><a href="mailto:simon@vult.uk"><img src="https://img.shields.io/badge/%40-E--Mail-red" alt="E-Mail" /></a></code>
 </p>
 
 ## Languages and Tools
