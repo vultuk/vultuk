@@ -38,7 +38,8 @@
 #### :thinking: Learning
 
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="30"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="30" alt="Kotlin"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height="30" alt="GraphQL"></code>
 
 #### :desktop_computer: Tools
 
