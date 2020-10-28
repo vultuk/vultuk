@@ -5,7 +5,11 @@
 </p>
 
 **Welcome to my profile!**<br />
-I'm Simon (or Vultuk) from Manchester, England. I have a number of businesses where I run IT and Development, but mainly I just love to code. I'm passionate about learning languages, both programming and spoken.
+
+- :wave: I'm Simon (or Vultuk) from Manchester, England.
+- :office: I own a number of businesses where I run IT and Development.
+- :speaking_head: I'm passionate about learning languages, both programming and spoken.
+- :keyboard: Mainly I just love to code.
 
 <p align="center">
 <code><a href="https://github.com/vultuk"><img alt="visitors" src="https://img.shields.io/github/followers/vultuk?label=github&style=social" /></a></code>
