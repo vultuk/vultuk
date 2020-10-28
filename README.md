@@ -10,12 +10,6 @@
 <code><a href="https://www.linkedin.com/in/simon-skinner"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></code>
 </p>
 
-<p align="center">
-<br>
-<a href="https://twitter.com/vultuk"><img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-
-</p>
-
 ## Languages and Tools
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue" width="44%" alt="Vultuk's Top Languages">
