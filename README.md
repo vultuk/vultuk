@@ -32,7 +32,7 @@
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="40">
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="40">
 
-<br style="clear: both;">
+<br style="clear: right;">
 
 ### Github Stats
 
