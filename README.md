@@ -57,6 +57,10 @@
 
 <br style="clear: both;">
 
+## What did I code in this week?
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="Vultuk's Github Stats">
+
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="Vultuk's Github Stats">
