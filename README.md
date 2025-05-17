@@ -59,7 +59,7 @@
 
 ## Currently in my head
 
-<a align="right" href="https://open.spotify.com/playlist/3FrFoFhpGojEKvWXc4DvNu?si=m0sHDO7bRb2ZbjT-yIjslA"><img src="https://raw.githubusercontent.com/vultuk/vultuk/main/img/code-playlist.png" alt="Vultuk's GitHub Stats"  align="right" height="242"></a>
+<a align="right" href="https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd?si=m0sHDO7bRb2ZbjT-yIjslA"><img src="https://raw.githubusercontent.com/vultuk/vultuk/main/img/code-playlist.png" alt="Vultuk's GitHub Stats"  align="right" height="242"></a>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="Vultuk's Github Stats">
 
