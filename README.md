@@ -1,5 +1,4 @@
 <p>
-  <!-- <img width="100%" src="https://media-exp1.licdn.com/dms/image/C5616AQFrbKs5x7RYtw/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=V8nN_PQCvfe6lDVnJYIv7yXMH4XELI6RevKDxNQUwdw"> -->
 
   <h1 align="center"><b>Hi. You've found Vultuk</b></h1>
 </p>
