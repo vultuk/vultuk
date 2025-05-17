@@ -63,7 +63,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="Vultuk's Github Stats">
 
-- See even more time stuffs here :point_right: <a href="https://wakatime.com/@vultuk">Wakatime</a>
+- See even more time stuff here :point_right: <a href="https://wakatime.com/@vultuk">Wakatime</a>
 
 ## Github Stats
 
