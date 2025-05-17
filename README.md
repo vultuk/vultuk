@@ -10,7 +10,7 @@
 - :speaking_head: I'm passionate about learning languages, both programming and spoken.
 - :keyboard: Mainly I just love to code.
 - :iphone: Recently I got back into making mobile apps
-- :mega: **We are almost always hiring**
+- :mega: We're frequently on the lookout for new talent. Check out our [careers page](https://vult.uk/careers) or send a CV to [careers@vult.uk](mailto:careers@vult.uk).
 
 <p align="center">
 <code><a href="https://github.com/vultuk"><img src="https://img.shields.io/badge/GitHub-%23333333.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" /></a></code>&nbsp;&nbsp;&nbsp;
