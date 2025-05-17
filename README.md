@@ -14,7 +14,7 @@
 - :mega: **We are almost always hiring**
 
 <p align="center">
-<code><a href="https://github.com/vultuk"><img src="https://img.shields.io/badge/Github-%23333333.svg?&style=flat&logo=github&logoColor=white" alt="Github" /></a></code>&nbsp;&nbsp;&nbsp;
+<code><a href="https://github.com/vultuk"><img src="https://img.shields.io/badge/GitHub-%23333333.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" /></a></code>&nbsp;&nbsp;&nbsp;
 <code><a href="https://twitter.com/vultuk"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a></code>&nbsp;&nbsp;&nbsp;
 <code><a href="https://www.linkedin.com/in/simon-skinner"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></code>&nbsp;&nbsp;&nbsp;
 <code><a href="mailto:simon@vult.uk"><img src="https://img.shields.io/badge/%40-E--Mail-red" alt="E-Mail" /></a></code>
@@ -59,15 +59,15 @@
 
 ## Currently in my head
 
-<a align="right" href="https://open.spotify.com/playlist/3FrFoFhpGojEKvWXc4DvNu?si=m0sHDO7bRb2ZbjT-yIjslA"><img src="https://raw.githubusercontent.com/vultuk/vultuk/main/img/code-playlist.png" alt="Vultuk's Github Stats"  align="right" height="242"></a>
+<a align="right" href="https://open.spotify.com/playlist/3FrFoFhpGojEKvWXc4DvNu?si=m0sHDO7bRb2ZbjT-yIjslA"><img src="https://raw.githubusercontent.com/vultuk/vultuk/main/img/code-playlist.png" alt="Vultuk's GitHub Stats"  align="right" height="242"></a>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="Vultuk's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="Vultuk's GitHub Stats">
 
 - See even more time stuffs here :point_right: <a href="https://wakatime.com/@vultuk">Wakatime</a>
 
-## Github Stats
+## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="Vultuk's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="Vultuk's GitHub Stats">
 
 - See even more stats right here :point_right: <a href="https://sourcerer.io/vultuk">Sourcerer</a>
 
