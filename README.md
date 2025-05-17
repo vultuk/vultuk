@@ -12,6 +12,11 @@
 - :iphone: Recently I got back into making mobile apps
 - :mega: We're frequently on the lookout for new talent. Check out our [careers page](https://vult.uk/careers) or send a CV to [careers@vult.uk](mailto:careers@vult.uk).
 
+### Fun facts
+- Enjoys juggling in spare time.
+- Keen board game enthusiast.
+- Coffee aficionado.
+
 <p align="center">
 <code><a href="https://github.com/vultuk"><img src="https://img.shields.io/badge/GitHub-%23333333.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" /></a></code>&nbsp;&nbsp;&nbsp;
 <code><a href="https://twitter.com/vultuk"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a></code>&nbsp;&nbsp;&nbsp;
