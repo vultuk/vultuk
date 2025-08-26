@@ -1,82 +1,89 @@
-<p>
-
-  <h1 align="center"><b>Hi. You've found Vultuk</b></h1>
-</p>
-
-**Welcome to my profile!**<br />
-
-- :wave: I'm Simon (or Vultuk) from Manchester, England.
-- :office: I own a number of businesses where I run IT and Development.
-- :speaking_head: I'm passionate about learning languages, both programming and spoken.
-- :keyboard: Mainly I just love to code.
-- :iphone: Recently I got back into making mobile apps
-- :mega: We're frequently on the lookout for new talent. Check out our [careers page](https://vult.uk/careers) or send a CV to [careers@vult.uk](mailto:careers@vult.uk).
-
-### Fun facts
-- Enjoys juggling in spare time.
-- Keen board game enthusiast.
-- Coffee aficionado.
+<!-- Profile README for @vultuk — self‑contained & theme‑aware -->
 
 <p align="center">
-<code><a href="https://github.com/vultuk"><img src="https://img.shields.io/badge/GitHub-%23333333.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" /></a></code>&nbsp;&nbsp;&nbsp;
-<code><a href="https://twitter.com/vultuk"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a></code>&nbsp;&nbsp;&nbsp;
-<code><a href="https://www.linkedin.com/in/simon-skinner"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></code>&nbsp;&nbsp;&nbsp;
-<code><a href="mailto:simon@vult.uk"><img src="https://img.shields.io/badge/%40-E--Mail-red" alt="E-Mail" /></a></code>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img alt="Simon Skinner · Vultuk — IT Director, Full‑Stack, Brokerage tech, AI systems" src="./assets/hero-light.svg" width="100%">
+  </picture>
 </p>
 
-## Languages and Tools
+<p align="center">
+  <a href="https://vult.uk" title="Website">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/website.svg">
+      <img src="./assets/badges/light/website.svg" alt="Website">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://x.com/vultuk" title="X / Twitter">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/x.svg">
+      <img src="./assets/badges/light/x.svg" alt="X / Twitter">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/simon-skinner" title="LinkedIn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/linkedin.svg">
+      <img src="./assets/badges/light/linkedin.svg" alt="LinkedIn">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="mailto:simon@vult.uk" title="Email">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/email.svg">
+      <img src="./assets/badges/light/email.svg" alt="Email">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://vult.uk/careers" title="We’re hiring">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dark/careers.svg">
+      <img src="./assets/badges/light/careers.svg" alt="We’re hiring">
+    </picture>
+  </a>
+</p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true&langs_count=10&hide=perl,shell,plsql,css,sqlpl" width="44%" alt="Vultuk's Top Languages">
+---
 
-#### :heart_eyes: Loving
+### What I do
 
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/postgresql.svg" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"></code>
+- IT Director since 2014 across multiple companies; specialist in brokerage platforms and trading infrastructure (MetaTrader 4/5).
+- Quick prototypes first; then refine with SOLID, DRY and YAGNI.
+- Full‑stack: TypeScript/JavaScript, Python, C++, PHP, Go, Ruby, Swift, C#, SQL and noSQL.
+- Cloud & ops: AWS and Cloudflare. Tooling: VS Code and Claude Code.
+- Exploring, architecting, and eventually training my own AI systems.
 
-#### :thinking: Learning
+> **Now**: writing a low‑latency Liquidity Bridge in **Python** and **C++** for brokerage connectivity.
 
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="30" alt="Kotlin"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height="30" alt="GraphQL"></code>
+---
 
-#### :desktop_computer: Tools
+## Toolbox
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/jetbrains.svg" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" height="30"></code>
+<p>
+  <kbd>TypeScript</kbd> <kbd>JavaScript</kbd> <kbd>Python</kbd> <kbd>C++</kbd> <kbd>Go</kbd> <kbd>PHP</kbd> <kbd>Ruby</kbd> <kbd>Swift</kbd> <kbd>C#</kbd><br/>
+  <kbd>Node.js</kbd> <kbd>Angular</kbd> <kbd>PostgreSQL</kbd> <kbd>MySQL</kbd><br/>
+  <kbd>AWS</kbd> <kbd>Cloudflare</kbd> <kbd>GCP</kbd> <kbd>Firebase</kbd><br/>
+  <kbd>VS Code</kbd> <kbd>JetBrains</kbd> <kbd>Xcode</kbd> <kbd>Claude Code</kbd>
+</p>
 
-#### :control_knobs: Platforms
+---
 
-<code><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/firebase.svg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/google-cloud.svg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/heroku-icon.svg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/aws-s3.svg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/aws-ec2.svg" height="30"></code>
+## Open source
 
-<br style="clear: both;">
+- <a href="https://github.com/vultuk/functionals">vultuk/functionals</a>  
+- All repositories → <a href="https://github.com/vultuk?tab=repositories">browse here</a>
 
-## Currently in my head
+---
 
-<a align="right" href="https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd?si=m0sHDO7bRb2ZbjT-yIjslA"><img src="https://raw.githubusercontent.com/vultuk/vultuk/main/img/code-playlist.png" alt="Vultuk's GitHub Stats"  align="right" height="242"></a>
+## Beyond code
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="Vultuk's Github Stats">
+West Sussex, UK. Vegan. Coffee powered. Early mornings and late nights are when I’m most productive.  
+Traveller and hiker (Japan next; Kilimanjaro and Everest base camp on the list).  
+Music: guitar, bouzouki, whistles, bodhrán, cajón; acoustic/Irish/folk.
 
-- See even more time stuff here :point_right: <a href="https://wakatime.com/@vultuk">Wakatime</a>
+---
 
-## GitHub Stats
+## Work with me
 
-<img src="https://github-readme-stats.vercel.app/api?username=vultuk&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="Vultuk's GitHub Stats">
-
- - See even more stats right here :point_right: <a href="https://metrics.lecoq.io/vultuk">Metrics</a>
-
-## My Open Source Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vultuk&repo=functionals)](https://github.com/vultuk/functionals)
-
-- See all my Open Source projects :point_right: <a href="https://github.com/vultuk?tab=repositories">Repositories</a>
+Exceptional people welcome. **<a href="https://vult.uk/careers">vult.uk/careers</a>** or email **careers@vult.uk**.
